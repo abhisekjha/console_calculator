@@ -1,0 +1,15 @@
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/bin/Debug/net8.0/Calculator
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/abhisekjha/MyFolder/Github_Projects/console_calculator/Calculator/obj/Debug/net8.0/ref/Calculator.dll
